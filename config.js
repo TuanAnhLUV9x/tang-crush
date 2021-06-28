@@ -14,5 +14,5 @@ const CONFIG = {
     reply: 'Em Cũng Yêu Anh Nhiều Lắm <3 <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'LOVE',
     messLink: 'https://www.facebook.com/messages/t/tuananhktv92x'
